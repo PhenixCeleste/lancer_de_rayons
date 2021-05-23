@@ -1,5 +1,5 @@
 # lancer_de_rayons
-Ray_tracing project inspired by Centrale MP 2021 subject - April 2021
+Ray-tracing project inspired by Centrale MP 2021 subject - April 2021
 
 Code in lancer_de_rayons.py
 
